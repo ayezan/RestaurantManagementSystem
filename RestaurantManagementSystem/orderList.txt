@@ -1,0 +1,44 @@
+
+Food Name : Hot and Sour Soup
+Food Quantity : 12
+Food Price : 1800
+
+Food Name : Manchurian Noodles
+Food Quantity : 21
+Food Price : 3150
+
+Food Name : Chicken Korma
+Food Quantity : 21
+Food Price : 15750
+
+Food Name : Manchurian Noodles
+Food Quantity : 5
+Food Price : 750
+
+Food Name : French Fries
+Food Quantity : 67
+Food Price : 12060
+
+Food Name : Manchow Soup
+Food Quantity : 8
+Food Price : 2400
+
+Food Name : Chicken Biryani
+Food Quantity : 21
+Food Price : 4200
+
+Food Name : Manchow Soup
+Food Quantity : 78
+Food Price : 23400
+
+Food Name : Manchow Soup
+Food Quantity : 55
+Food Price : 16500
+
+Food Name : Manchow Soup
+Food Quantity : 2
+Food Price : 600
+
+Food Name : Manchow Soup
+Food Quantity : 2
+Food Price : 600
